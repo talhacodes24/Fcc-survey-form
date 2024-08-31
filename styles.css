@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway&display=swap');
+
+* {
+     margin: 0px;
+     padding: 0px;
+     box-sizing: border-box;
+}
+
+body {
+     margin: 0;
+    font-family: sans-serif;
+    background: #575791;
+    color: #fff; 
+    
+}
+element.style {
+     overscroll-behavior-x: auto;
+ }
+
+.form-group {
+    
+    background-color: #222242;
+    margin-bottom: 1.5rem;
+    font-size: 1.3rem;
+}
+
+.spineer {
+     display: block;
+     justify-content: center;
+     margin-top: 10px;
+}
+.card {
+     display: block;
+      font-family:sans-serif;
+      gap: 16px;
+}
+.bg {
+     margin-top: 10px;
+     display: flex;
+     
+}
+.choice {
+     padding-top: 10px;
+}
+.spineer1 {
+    margin-top: 10px;
+     font-size: large;
+     gap: 20px;
+}
+.tooltip {
+      margin-top: 10px;
+}
+.smart {
+     margin-top: 15px;
+     display:flex;
+}
+.creater {
+      margin-top: 10px;
+      font-size: large;
+
+}
+.header {
+     display: block;
+     margin-bottom: 15px;
+     padding: 10px;
+     gap: 10px;
+}
+body {
+     display: block;
+}
+.hoiyan {
+     background-color: #222242;
+     padding: 3rem 2.5rem;
+     border-radius: 7px;
+}
